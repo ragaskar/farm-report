@@ -1,0 +1,3 @@
+class GreenhouseClient
+
+end
